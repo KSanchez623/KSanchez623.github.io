@@ -1,0 +1,49 @@
+.breck
+{
+  width: 300px;
+}
+
+.botanic
+{
+  width: 300px;
+}
+
+.concert
+{
+  width: 300px;
+}
+
+.first_note
+{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.ily
+{
+  background-color: pink;
+  font-weight: bold;
+  width: 213px;
+}
+
+.ily_t
+{
+  cursor: pointer;
+  background-color: green;
+}
+
+.ily_t:hover
+{
+  text-decoration: underline;
+}
+
+.ily_f
+{
+  cursor: pointer;
+  background-color: red;
+}
+
+.ily_f:hover
+{
+  text-decoration: underline;
+}
