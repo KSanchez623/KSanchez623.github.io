@@ -3,6 +3,11 @@
   width: 300px;
 }
 
+.first_note
+{
+  color: white;
+}
+
 .botanic
 {
   width: 300px;
@@ -45,4 +50,10 @@
 .ily_f:hover
 {
   text-decoration: underline;
+}
+
+body
+{
+  background-size: cover;
+  background-image: url(images/hearts_background.jpg);
 }
