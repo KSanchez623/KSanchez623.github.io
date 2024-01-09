@@ -1,21 +1,31 @@
 .breck
 {
   width: 300px;
+  margin-left: 50px;
+}
+
+.cat
+{
+  width: 300px;
+  margin-left: 50px;
 }
 
 .first_note
 {
   color: white;
+  text-align: center;
 }
 
 .botanic
 {
   width: 300px;
+  margin-left: 50px;
 }
 
 .concert
 {
   width: 300px;
+  margin-left: 50px;
 }
 
 .first_note
@@ -26,6 +36,7 @@
 
 .ily
 {
+  background-color: pink;
   font-weight: bold;
   width: 213px;
   color: white;
@@ -51,6 +62,12 @@
 .ily_f:hover
 {
   text-decoration: underline;
+}
+
+.homepage
+{
+  color: white;
+  text-align: center;
 }
 
 body
